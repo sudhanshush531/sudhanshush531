@@ -5,7 +5,7 @@ I'm Sudhanshu, a passionate software developer with a love for coding and proble
 - 🔭 I’m currently working on exciting Java projects, leveraging the power of Spring Boot Framework to build robust and scalable applications.
 - 🌱 I’m always learning and exploring new technologies to stay up-to-date with the ever-evolving tech landscape.
 - 👯 I’m looking to collaborate on open-source projects and connect with fellow developers who share my interests.
-- 💬 Ask me about anything related to Java, Spring boot, CSS3, HTML5, JavaScript, MySQL, or Git. I'd be happy to help!
+- 💬 Ask me about anything related to Java, Spring boot, MySQL, or Git. I'd be happy to help!
 - 📫 You can reach me on [LinkedIn](http://www.linkedin.com/in/sshekhar152001) if you'd like to connect and chat.
 
 Fun fact: I believe that coding is not just a skill, but an art form where you can create something amazing from nothing!
