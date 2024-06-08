@@ -33,7 +33,7 @@ I'm proficient in a variety of languages and tools, including:
 ### :fire: My Stats:
 
 Here are some statistics about my GitHub activity:
-[![trophy](https://github-profile-trophy.vercel.app/?username=jain-chinmay&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudhanshush531&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sudhanshush531&mode=weekly) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshush531&show_icons=true&count_private=true)
 
