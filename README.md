@@ -1,33 +1,20 @@
-### Hi there! 👋
+# 💻 Sudhanshu Shekhar | Java Developer  
 
-I'm Sudhanshu, a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile! Here's a little bit about me:
+Passionate Java developer with expertise in building scalable and reliable backend systems using **Spring Boot**, **Microservices Architecture**, and **MySQL**. I specialize in designing and developing payment systems, reporting dashboards, and creating customer-centric solutions with a focus on clean code, performance optimization, and maintainability. 
 
-- 🔭 I’m currently working on exciting Java projects, leveraging the power of Spring Boot Framework to build robust and scalable applications.
-- 🌱 I’m always learning and exploring new technologies to stay up-to-date with the ever-evolving tech landscape.
-- 👯 I’m looking to collaborate on open-source projects and connect with fellow developers who share my interests.
-- 💬 Ask me about anything related to Java, Spring boot, MySQL, or Git. I'd be happy to help!
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sudhanshush531/) if you'd like to connect and chat.
+## 🛠️ Tech Stack  
 
-Fun fact: I believe that coding is not just a skill, but an art form where you can create something amazing from nothing!
+**Languages:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+**Frameworks & Tools:**  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white) ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat&logo=teamcity&logoColor=white)  
 
-### :hammer_and_wrench: Languages and Tools:
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
-I'm proficient in a variety of languages and tools, including:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+**Messaging & Caching:**  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Hazelcast](https://img.shields.io/badge/-Hazelcast-0078D7?style=flat&logo=hazelcast&logoColor=white)  
 
 
 ### :fire: My Stats:
